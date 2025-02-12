@@ -12,5 +12,5 @@ void ATestActor::BeginPlay()
 {
 	Super::BeginPlay();
 
-	UE_LOG(LogTemp, Log, TEXT("Written by CGW."));
+	UE_LOG(LogTemp, Log, TEXT("Written by CGW!!!!"));
 }
