@@ -12,4 +12,6 @@ class TEST_API ATestActor : public AActor
 public:	
 	ATestActor();
 
+	virtual void BeginPlay() override;
+
 };
